@@ -7,6 +7,7 @@ A Chrome extension that uses AI to generate engaging LinkedIn posts.
 - Multiple tone options (Professional, Casual, Inspiring, etc.)
 - One-click copy to clipboard
 - Beautiful, modern UI
+- It also generate hashtag according to the topic.
 
 ## Setup
 
