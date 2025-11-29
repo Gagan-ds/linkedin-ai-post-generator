@@ -18,7 +18,7 @@ class Prompt(BaseModel):
     text: str
     tone: str = "professional"
 
-GEMINI_API_KEY = ""
+GEMINI_API_KEY = "Add Your Key"
 
 
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent"
