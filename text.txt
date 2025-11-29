@@ -1,0 +1,16 @@
+// {
+//   "manifest_version": 3,
+//   "name": "LinkedIn AI Post Generator",
+//   "version": "1.0.0",
+//   "description": "Generate engaging LinkedIn posts using AI",
+//   "permissions": [
+//     "activeTab",
+//     "storage"
+//   ],
+//   "action": {
+//     "default_popup": "popup.html"
+//   },
+//   "host_permissions": [
+//     "http://localhost:8000/*"
+//   ]
+// }
